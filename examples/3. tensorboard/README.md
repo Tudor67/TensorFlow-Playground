@@ -1,18 +1,20 @@
 # TensorBoard
+1. `tensorboard.ipynb`
+2. `$ tensorboard --logdir=./logs`
 
 ## Graphs
-![graphs](./saved images/graphs.png)
+![graphs](./saved%20images/graphs.png)
 
 ## Images
-![images](./saved images/images.png)
+![images](./saved%20images/images.png)
 
 ## Scalars
-![scalars](./saved images/scalars.png)
+![scalars](./saved%20images/scalars.png)
 
 ## Distributions
-![distributions](./saved images/distributions.png)
+![distributions](./saved%20images/distributions.png)
 
 ## Histograms
-![histograms](./saved images/histograms.png)
+![histograms](./saved%20images/histograms.png)
 
 
